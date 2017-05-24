@@ -2,6 +2,7 @@
 
 NextPro is a minimal design approach to Arduino, it's a (5v,16Mhz)/(3.3v, 8Mhz) board based on the ATmega328P microcontroller in a small PCB that will fit easily into your next small project.
 NextPro can be programmed over using an FTDI Programmer and the Arduino IDE.
+NextPro is built upon the [Arduino UNO](https://www.arduino.cc/en/Main/ArduinoBoardUno) and the sparkfun [Arduino Pro](https://www.sparkfun.com/products/10915).
 
 ## Features
 
